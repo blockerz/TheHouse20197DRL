@@ -19,5 +19,21 @@ I used C# in Unity. Because it was a jam with a time limit and no plan for exten
 I used a Wang Tile set for room connectivity. Some of the ideas I got about how to piece it together came from this excellent site on [Blob Tilesets](http://cr31.co.uk/stagecast/wang/blob.html).
 
 
+## Results
+
+[Game Reviews located here](http://roguetemple.com/7drl/2019/)
+
+Category|Score (out of 4)
+--------|----------------
+Completness|3.67
+Aesthetics|3.67
+Fun|2.67
+Innovation|2.67
+Scope|3.0
+Roguelikeness|4.0
+**Average**|**3.28**
+
+
+![2019 7DRL Challenger Award](https://github.com/blockerz/TheHouse20197DRL/blob/master/images/7DRL%202019%20Award.png)
 
 
